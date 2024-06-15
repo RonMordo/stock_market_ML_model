@@ -9,4 +9,4 @@ Model Evaluation: Performance metrics like Mean Absolute Error (MAE) and Root Me
 Visualization: The results are visualized using graphs to compare the predicted prices with actual stock prices.
 This project serves as an introduction to the basics of machine learning, data preprocessing, and model evaluation, providing a foundation for more advanced projects in the future.
 
-As of 15/06/2024 the model is 51% accuracy, with a good risk management it could become a great tool
+*As of 15/06/2024 the model is 51% accuracy, with a good risk management it could become a great tool*
